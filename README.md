@@ -1,73 +1,35 @@
-# Welcome to your Lovable project
+Revera – Rent & Buy Your Dream Car
 
-## Project info
+Revera is a modern web application built with Next.js that provides a seamless platform for exploring, renting, and purchasing dream cars. With a sleek design and responsive interface, it offers users an effortless way to browse vehicles, compare options, and make informed choices.
 
-**URL**: https://lovable.dev/projects/a15c5a15-2adc-4f36-99e9-d755fcf52e80
+✨ Key Features
 
-## How can I edit this code?
+🚗 Car Listings – Curated catalog with detailed specifications and high-quality images
 
-There are several ways of editing your application.
+🔎 Smart Search & Filters – Quickly find cars by brand, model, price, or rental type
 
-**Use Lovable**
+📅 Flexible Options – Choose between renting for a duration or purchasing outright
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a15c5a15-2adc-4f36-99e9-d755fcf52e80) and start prompting.
+📱 Responsive Design – Optimized for desktops, tablets, and mobile devices
 
-Changes made via Lovable will be committed automatically to this repo.
+⚡ Next.js Powered – Blazing-fast performance, scalability, and modern frontend architecture
 
-**Use your preferred IDE**
+🛠️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Framework: Next.js (React)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Styling: Tailwind CSS / ShadCN UI
 
-Follow these steps:
+UI Components & Icons: Lucide, ShadCN
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Deployment: firebase
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+📌 Roadmap
 
-# Step 3: Install the necessary dependencies.
-npm i
+User authentication & personalized profiles
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Secure payment integration
 
-**Edit a file directly in GitHub**
+Booking history & management dashboard
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a15c5a15-2adc-4f36-99e9-d755fcf52e80) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Admin panel for vehicle management
